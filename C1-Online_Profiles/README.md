@@ -19,4 +19,7 @@ www.linkedin.com/in/Sabrina-G-KS
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
+[Sabrina Guerrero Tech Resume 2022.pdf](https://github.com/SavvyRocker666/liftoff-assignments/files/9286701/Sabrina.Guerrero.Tech.Resume.2022.pdf)
+
+
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
