@@ -22,6 +22,4 @@ https://trello.com/b/kriGe4Qw/liftoff-project
 
 Include a link to your project on GitHub.
 
-https://github.com/SavvyRocker666/LiftOffApplication
-
-Might change Repo Link later
+https://github.com/August-2022-KC-LCW-LiftOff/recipe-app-group-jackie
