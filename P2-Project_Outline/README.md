@@ -7,28 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Allow users to create, browse and share recipies.
-Usefull for digitizing and sharing old and new recipies.
-Idea came from creators desire to preserve family recipie boxes that had been handed down.
+-Allow users to create, browse and share recipies.
+-Usefull for digitizing and sharing old and new recipies.
+-Idea came from creators desire to preserve family recipie boxes that had been handed down.
 
 ### Features
-Account Creation/Login
-Search
-Create Recipe
-Social Sharing
-Public user profile page
+-Account Creation/Login
+-Search
+-Create Recipe
+-Social Sharing
+-Public user profile page
 
 ### Technologies
-Java
-SpringBoot
-MySQL
-Hybernate
-Thymeleaf
-HTML/CSS
+-Java
+-SpringBoot
+-MySQL
+-Hybernate
+-Thymeleaf
+-HTML/CSS
 
 ### What I'll Have to Learn
-Authentication Implimentation
-Image storage/display
+-Authentication Implimentation
+-Image storage/display
 
 ### Project Tracker
 https://trello.com/b/kriGe4Qw/
